@@ -1,0 +1,21 @@
+2019-09-09 21:14:15,376 ERROR FileRunner [main] \c\Users\Василий\Desktop\test.txt (Системе не удается найти указанный путь)[java.base/java.io.FileInputStream.open0(Native Method), java.base/java.io.FileInputStream.open(FileInputStream.java:219), java.base/java.io.FileInputStream.<init>(FileInputStream.java:157), java.base/java.io.FileInputStream.<init>(FileInputStream.java:112), FileRunner.ReadFile(FileRunner.java:26), StartReader.main(StartReader.java:12)] 
+2019-09-09 21:14:15,379 INFO FileRunner [main] Reading file competed 
+2019-09-09 21:14:15,380 ERROR StartReader [main] null 
+2019-09-09 21:14:36,693 ERROR FileRunner [main] \c\Users\Василий\Desktop\test.txt (Системе не удается найти указанный путь)[java.base/java.io.FileInputStream.open0(Native Method), java.base/java.io.FileInputStream.open(FileInputStream.java:219), java.base/java.io.FileInputStream.<init>(FileInputStream.java:157), java.base/java.io.FileInputStream.<init>(FileInputStream.java:112), FileRunner.ReadFile(FileRunner.java:26), StartReader.main(StartReader.java:12)] 
+2019-09-09 21:14:36,695 INFO FileRunner [main] Reading file competed 
+2019-09-09 21:14:36,696 ERROR StartReader [main] null 
+2019-09-09 21:14:46,591 ERROR FileRunner [main] \c\Users\Василий\Desktop\test.txt (Системе не удается найти указанный путь)[java.base/java.io.FileInputStream.open0(Native Method), java.base/java.io.FileInputStream.open(FileInputStream.java:219), java.base/java.io.FileInputStream.<init>(FileInputStream.java:157), java.base/java.io.FileInputStream.<init>(FileInputStream.java:112), FileRunner.ReadFile(FileRunner.java:26), StartReader.main(StartReader.java:12)] 
+2019-09-09 21:14:46,593 INFO FileRunner [main] Reading file competed 
+2019-09-09 21:14:46,594 ERROR StartReader [main] null 
+2019-09-09 21:15:02,327 ERROR FileRunner [main] \c\Users\Василий\Desktop\test.txt (Системе не удается найти указанный путь)[java.base/java.io.FileInputStream.open0(Native Method), java.base/java.io.FileInputStream.open(FileInputStream.java:219), java.base/java.io.FileInputStream.<init>(FileInputStream.java:157), java.base/java.io.FileInputStream.<init>(FileInputStream.java:112), FileRunner.ReadFile(FileRunner.java:26), StartReader.main(StartReader.java:12)] 
+2019-09-09 21:15:02,330 INFO FileRunner [main] Reading file competed 
+2019-09-09 21:15:02,331 ERROR StartReader [main] null 
+2019-09-09 21:15:16,905 ERROR FileRunner [main] \c\Users\Василий\Desktop\test.txt (Системе не удается найти указанный путь)[java.base/java.io.FileInputStream.open0(Native Method), java.base/java.io.FileInputStream.open(FileInputStream.java:219), java.base/java.io.FileInputStream.<init>(FileInputStream.java:157), java.base/java.io.FileInputStream.<init>(FileInputStream.java:112), FileRunner.ReadFile(FileRunner.java:26), StartReader.main(StartReader.java:12)] 
+2019-09-09 21:15:16,907 INFO FileRunner [main] Reading file competed 
+2019-09-09 21:15:16,908 ERROR StartReader [main] null 
+2019-09-09 21:15:37,704 ERROR FileRunner [main] \c\Users\Василий\Desktop\test.txt (Системе не удается найти указанный путь)[java.base/java.io.FileInputStream.open0(Native Method), java.base/java.io.FileInputStream.open(FileInputStream.java:219), java.base/java.io.FileInputStream.<init>(FileInputStream.java:157), java.base/java.io.FileInputStream.<init>(FileInputStream.java:112), FileRunner.ReadFile(FileRunner.java:26), StartReader.main(StartReader.java:12)] 
+2019-09-09 21:15:37,740 INFO FileRunner [main] Reading file competed 
+2019-09-09 21:15:41,282 ERROR StartReader [main] null 
+2019-09-09 21:15:51,219 ERROR FileRunner [main] \c\Users\Василий\Desktop\test.txt (Системе не удается найти указанный путь)[java.base/java.io.FileInputStream.open0(Native Method), java.base/java.io.FileInputStream.open(FileInputStream.java:219), java.base/java.io.FileInputStream.<init>(FileInputStream.java:157), java.base/java.io.FileInputStream.<init>(FileInputStream.java:112), FileRunner.ReadFile(FileRunner.java:26), StartReader.main(StartReader.java:12)] 
+2019-09-09 21:15:51,221 INFO FileRunner [main] Reading file competed 
+2019-09-09 21:15:51,222 ERROR StartReader [main] null 
