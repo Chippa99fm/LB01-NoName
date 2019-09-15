@@ -1,14 +1,16 @@
 import org.slf4j.*;
-
 import java.util.*;
-
 
 public class DataFile {
     private final List<String> terminate = new ArrayList<>();
     private final List<String> nonTerminate = new ArrayList<>();
     private final Map<String, List<String>> rules = new HashMap<>();
     private final Logger log = LoggerFactory.getLogger(getClass());
-    private String line;
+    private List<String> line;
+
+    public  DataFile(){
+        line = new ArrayList<>();
+    }
 
     public void addRules(String sybol, List<String> newSybols) {
         try {
@@ -30,13 +32,13 @@ public class DataFile {
         else log.warn("String is null");
     }
 
-    public void setLine(String line) {
+    public void addLine(String line) {
         if (line != null)
-            this.line = line;
+            this.line.add(line);
         else log.warn("String is null");
     }
 
-    public String getLine() {
+    public List<String> getLine() {
         return line;
     }
 
